@@ -1,7 +1,7 @@
 ---
 layout: page
 title: أعمالي
-permalink: /web-portfolio/
+permalink: /portfolio/
 ---
 
 ### تطبيق
