@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 ### 
 
-التقنيات المستخدمة: React, Amazon S3, AWS Amplify, and more
+التقنيات المستخدمة: NodeJS, HTML, CSS, React, AWS Platform
 
 رابط المشروع
 ()
