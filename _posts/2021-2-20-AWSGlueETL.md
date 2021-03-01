@@ -7,12 +7,11 @@ title: إدارة البيانات و هيكلتها مع AWS Glue
 
 
 ## ETL Pipeline
-![AWS Glue](https://i0.wp.com/oddblogger.com/wp-content/uploads/2019/08/Amazon-API-Gateway@4x.png?resize=225%2C225&ssl=1 "https://i0.wp.com/oddblogger.com/wp-content/uploads/2019/08/Amazon-API-Gateway@4x.png?resize=225%2C225&ssl=1")
+![ETL Pipeline](https://panoply.io/uploads/etl-1.png "https://panoply.io/uploads/etl-1.png")
 
 هي عملية إدارة و هيكلة البيانات الغير منتظمة مكونة من ثلاثة خطوات رئيسية (إستخراج-تحويل-تحميل) و هذه العملية تعمل في مسار واحد لإنتاج بيانات منظمة تساعد على جمع البيانات الغير منظمة من مصادرها و تحولها إلى بيانات تفي بالمتطلبات التشغيلية و التحليلية بالشركات.
 
 ## إستخراج البيانات
-![CORS](https://addons.cdn.mozilla.net/user-media/previews/full/227/227652.png?modified=1597135314 "https://addons.cdn.mozilla.net/user-media/previews/full/227/227652.png?modified=1597135314")
 
 أولا، إستخراج البيانات من مصادرها يعتمد بشكل كبير على 
 
@@ -21,14 +20,12 @@ title: إدارة البيانات و هيكلتها مع AWS Glue
 ثانيا، تحويل البيانات يعني أن نقوم بتحويل البيانات إلى صيغ متناسقة نستطيع 
 
 
-![CORS Error Example](https://miro.medium.com/max/3200/0*bI2yxKryqJzyUkud "https://miro.medium.com/max/3200/0*bI2yxKryqJzyUkud")
-
-
 ## تحميل البيانات
 
 ثالثا، تحميل البيانات هو جزء أساسي من اكتمال عملية هيكلة البيانات لتصبح جاهزة للتحليل، لكن ماذا نعني بتحميل البيانات؟ تحميل البيانات بشكل مبسط تعني 
 
 ## AWS Glue
+![AWS Glue](https://img.stackshare.io/service/8906/AWS-Glue_4x.png "https://img.stackshare.io/service/8906/AWS-Glue_4x.png")
 
 هي خدمة تقدم من منصة أمازون للخدمات السحابية للمساعدة في إدارة ال etl و تقوم بشكل مبسط بإطلاق Crawlers بداخل قواعد البيانات، مستودعات البيانات، و غيرها من لفهم هيكلة البيانات و استخراجها و تحميلها لقاعدة بيانات لتحليلها بطريقة منتظمة.
 
