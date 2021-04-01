@@ -4,12 +4,14 @@ title: أعمالي
 permalink: /portfolio/
 ---
 
-### 
+### MERN-Application-Web-Server-Template
+
+المشروع هدفه أن يكون ويب سيرفر مبدئي لأي مشروع يستخدم الخدمات السحابية و خاصة AWS بتقنية MERN
 
 التقنيات المستخدمة: NodeJS, HTML, CSS, React, AWS Platform
 
 رابط المشروع
-()
+https://github.com/Abdullanz/MERN-Application-Web-Server-Template
 
 
 ### المحلل المالي
@@ -20,7 +22,7 @@ permalink: /portfolio/
 
 رابط المشروع
 
-(https://github.com/Abdullanz/ExpenseAnalyzer)
+https://github.com/Abdullanz/ExpenseAnalyzer
 
 
 ### Game Of Life
